@@ -19,6 +19,7 @@ enableRobotsTXT = true # generate robots.txt file for SEO
   disableSpecial1stPost = true # Makes all posts on the homepage look the same, without special styling for the first post.
 
   hidemeta = false # hides post metadata(like publicaton date, author, etc).
+  favicon = "favicon.png"
 
   # This setting controls whether to display a comment section on posts.
   # Comments will only work if a third-party service like Disqus is configured.
